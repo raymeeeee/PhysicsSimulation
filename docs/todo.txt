@@ -1,0 +1,7 @@
+explain euler`s half step
+explain timesteps
+create entity relationship diagram, finish dataflow diagram
+create UI
+create ids for objects and not just entities
+create buffer zone for collisions and continuous collision detection
+ADD PROJECT TO GITHUB
